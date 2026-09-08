@@ -15,11 +15,18 @@
 
 使用浏览器打开 https://mumumuqingnuan.github.io/block-arcade/ 。
 
-- iPhone / iPad：Safari → 分享 → 添加到主屏幕 → 添加。
-- 安卓手机：浏览器菜单 → 添加到主屏幕或安装应用 → 确认。
-- 电脑：支持安装网页应用的浏览器中，使用安装应用或创建快捷方式功能。
+- 游戏顶部的「添加到桌面」会显示对应设备的步骤，也可切换查看全部设备。打开说明会暂停并保存游戏；关闭后手动继续。
+- 安卓手机 / 平板：Chrome → ⋮ → 安装并创建快捷方式 → 安装；部分版本显示「添加到主屏幕」。
+- iPhone / iPad：Safari → 分享 / 共享 → 添加到主屏幕 → 添加；如有「作为网页 App 打开」，将它打开。
+- Windows：Edge / Chrome 安装网页应用，再在 edge://apps 或 chrome://apps 中创建桌面快捷方式。
+- Mac：Safari → 分享 → 添加到程序坞（macOS 14+）；Chrome 也可安装网页应用，并通过 chrome://apps 创建快捷方式。
+- 浏览器支持安装提示时，说明中会显示「在这台设备上安装」按钮。没有该按钮时，仍可按对应设备步骤操作。
 
 添加时会使用「方块时光」名称和方块图标。浏览器的菜单名称可能不同，网站不能自行把图标放到桌面。首次添加需手动确认；本版本未提供离线网页缓存。
+
+桌面应用与普通浏览器可能使用独立存档，建议添加后固定从同一个图标打开。
+
+官方操作说明：[安卓 Chrome](https://support.google.com/chrome/answer/9658361?co=GENIE.Platform%3DAndroid&hl=zh-Hans)、[电脑 Chrome](https://support.google.com/chrome/answer/9658361?co=GENIE.Platform%3DDesktop&hl=zh-Hans)、[iPhone Safari](https://support.apple.com/zh-cn/guide/iphone/iphea86e5236/ios)、[Mac Safari](https://support.apple.com/guide/safari/add-to-dock-ibrw9e991864/mac)、[Microsoft Edge](https://support.microsoft.com/en-us/edge/install-manage-or-uninstall-apps-in-microsoft-edge)。
 
 ## 托管
 
