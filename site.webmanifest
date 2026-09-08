@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "方块时光 · 俄罗斯方块",
+  "short_name": "方块时光",
+  "description": "传统与霓虹双模式俄罗斯方块，支持触屏操作和本机存档。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f2ed",
+  "theme_color": "#f3f2ed",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
